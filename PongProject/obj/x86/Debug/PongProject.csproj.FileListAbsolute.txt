@@ -1,0 +1,35 @@
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\Content\hit.xnb
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\Content\music.wma
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\Content\music.xnb
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\Content\paddle.xnb
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\PongProject.exe
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\PongProject.pdb
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\drugiZadatak.exe
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\drugiZadatak.pdb
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\obj\x86\Debug\PongProject.csprojResolveAssemblyReference.cache
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\obj\x86\Debug\PongProject.exe
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\PongProject\obj\x86\Debug\PongProject.pdb
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\PongProject\obj\x86\Debug\PongProject.exe
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\PongProject\obj\x86\Debug\PongProject.pdb

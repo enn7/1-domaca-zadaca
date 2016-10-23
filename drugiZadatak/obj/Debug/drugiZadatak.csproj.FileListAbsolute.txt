@@ -1,0 +1,12 @@
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\drugiZadatak\bin\Debug\drugiZadatak.exe.config
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\drugiZadatak\bin\Debug\drugiZadatak.exe
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\drugiZadatak\bin\Debug\drugiZadatak.pdb
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\drugiZadatak\obj\Debug\drugiZadatak.csprojResolveAssemblyReference.cache
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\drugiZadatak\obj\Debug\drugiZadatak.exe
+C:\Users\rackilea\Desktop\C#\Faks\prvaDz\drugiZadatak\obj\Debug\drugiZadatak.pdb
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\drugiZadatak\bin\Debug\drugiZadatak.exe.config
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\drugiZadatak\bin\Debug\drugiZadatak.exe
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\drugiZadatak\bin\Debug\drugiZadatak.pdb
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\drugiZadatak\obj\Debug\drugiZadatak.csprojResolveAssemblyReference.cache
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\drugiZadatak\obj\Debug\drugiZadatak.exe
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\drugiZadatak\obj\Debug\drugiZadatak.pdb

@@ -1,0 +1,2 @@
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\PongProject\obj\x86\Debug\PongProject.exe
+C:\Users\EnaR\Documents\Visual Studio 2015\Projects\prvaDz\PongProject\obj\x86\Debug\PongProject.pdb
